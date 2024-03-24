@@ -27,6 +27,6 @@ A.出来ない
 ![DBサーバーを停止](lecture-img/dbstop.png)  
 
 
-### ＜Rails の構成管理ツール＞  
+### ＜Railsの構成管理ツール＞  
 構成管理ツールはBundlerでした。
 ![構成管理ツール](lecture-img/binder.png)  
