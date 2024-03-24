@@ -29,4 +29,4 @@ A.出来ない
 
 ### ＜Rails の構成管理ツール＞  
 構成管理ツールはBundlerでした。
-![構成管理ツール](lecture-img/binder.png)
+![構成管理ツール](lecture-img/binder.png)  
