@@ -8,8 +8,5 @@
 ## RDS の構築
 ![RDS作成](lecture04-img/aws-rds.png)  
 
-## EC2 へ SSH 接続
-![EC2へSSH接続](lecture04-img/ssh-ec2.png)  
-
 ## EC2 から RDS へ接続
 ![EC2からRDSへ接続](lecture04-img/aws-rds.png)
