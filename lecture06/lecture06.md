@@ -8,8 +8,8 @@
 ![イベント履歴](lecture06-img/event-history.png) 
 
 ## CloudWatch アラーム  
-### アラーム詳細  
-![アラーム設定](lecture06-img/alarm-details.png)  
+### アラームの詳細  
+![アラーム設定画面](lecture06-img/alarm-details.png)  
 ![アラームグラフ](lecture06-img/alarm-graph.png)  
 
 - ### Rails アプリケーションが使える状態  
